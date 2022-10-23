@@ -3,3 +3,6 @@ numpy
 sklearn
 dvc
 matplotlib
+seaborn
+dvc[all]
+openpyxl
